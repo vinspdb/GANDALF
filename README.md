@@ -7,3 +7,5 @@
 
 [*GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images*]
 
+Link to the datasets:
+https://mega.nz/folder/RqtnXJhR#AnBRLoGuiybszQUU4TqkZg
