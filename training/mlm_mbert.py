@@ -128,7 +128,7 @@ if __name__ == '__main__':
     seed = 42
     LEARNING_RATE = 1e-5
     BATCH = 512
-    dataset = 'CZ_200_Settembre'
+    dataset = 'CZ_200_Settembre_Tiling-2'
     set_seed(seed)
     with open(dataset+'/train/train' + '.pkl', 'rb') as f:
         train = pickle.load(f)
