@@ -27,5 +27,23 @@ series = {SAC '25}
 }
 ```
 
+# How to use:
+
+Dataset Generation – please download the raw files from the link below, and then run:
+
+```
+python -m csv_to_text
+```
+Domain Adaptation stage (training folder):
+
+```
+python -m mlm_mbert
+```
+Fine-Tuning stage (training folder):
+
+```
+python -m train_mbert
+```
+
 Link to the datasets:
 https://mega.nz/folder/RqtnXJhR#AnBRLoGuiybszQUU4TqkZg
