@@ -29,7 +29,7 @@ series = {SAC '25}
 
 # How to use:
 
-Dataset Generation – please download the raw files from the link below, and then run:
+Dataset Generation – please download the raw files from the link below, and then run the following command:
 
 ```
 python -m csv_to_text
