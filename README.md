@@ -5,7 +5,7 @@
 *Vincenzo Pasquadibisceglie, Vito Recchia, Annalisa Appice, Donato Malerba and Giuseppe Fiameni*
 
 
-[*GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images*]
+[*GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images*](https://dl.acm.org/doi/10.1145/3672608.3707751)
 
 Please cite our work if you find it useful for your research and work.
 
